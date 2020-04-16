@@ -395,7 +395,7 @@ if __name__ == '__main__':
   parser.add_argument(
       '--learning_rate',
       type=str,
-      default='0.001,0.0001',
+      default='0.0005,0.0001',
       help='How large a learning rate to use when training.')
   parser.add_argument(
       '--batch_size',
