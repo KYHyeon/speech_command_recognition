@@ -1,4 +1,8 @@
-# Speech Commands Example
+# speech_command_recognition
+Real-time voice recognition in Android environments
 
-This is a basic speech recognition example. For more information, see the
-tutorial at https://www.tensorflow.org/versions/master/tutorials/audio_recognition.
+Connected Android codes are available at [here](https://github.com/KYHyeon/SpeechRecognition-android-tf).
+
+### referenced code
+* base code : https://github.com/tensorflow/tensorflow/tree/r1.13/tensorflow/examples/speech_commands
+* resnet model : https://github.com/lifeiteng/TF_SpeechRecoChallenge
